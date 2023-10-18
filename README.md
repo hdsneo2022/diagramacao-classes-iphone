@@ -1,5 +1,5 @@
 # diagramacao-classes-iphone
-repository created for DIO project of a UML diagram and Java code for an iphone basic interfaces.
+Repository created for DIO project of a UML diagram and Java code for an iphone basic interfaces.
 
 POO - Desafio
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
